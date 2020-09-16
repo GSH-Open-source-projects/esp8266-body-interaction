@@ -2,7 +2,7 @@
 # 
 
 
-this github repo  is one copy pf this project:
+**This github repo  is one copy of this project:**
 
 [Basic Node for the Internet of !!! Toys .][1]
 
