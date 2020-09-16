@@ -4,7 +4,7 @@
 
 this github repo  is one copy pf this project:
 
-![Basic Node for the Internet of !!! Toys .][1]
+[Basic Node for the Internet of !!! Toys .][1]
 
 For node installation you can use this kind of installation method based of Windows or Linux OS Users.
 
